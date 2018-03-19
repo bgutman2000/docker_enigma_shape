@@ -1,5 +1,5 @@
 # ENIGMA Shape Analysis (Dockerized)
-A dockerized version of the ENIGMA Shape Analysis project from the University of Southern California (USC).
+A dockerized version of the Medial Demons Shape Analysis tool from the Illinois Institute of Technology (IIT). This tool is also used in the ENIGMA Consortium shape analysis projects (http://enigma.ini.usc.edu/ongoing/enigma-shape-analysis/). 
 
 After pulling the image you need to fulfill these conditions:
  - Have three separated folders:
